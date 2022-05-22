@@ -1,0 +1,94 @@
+{
+	"title": {
+		"value": "GRIFFON AVIATION SERVICES LLC",
+		"coordinates": [6.005304325778976, 264.9690020382672]
+	},
+	"PN": {
+		"value": "tst",
+		"coordinates": [13.511934733002697, 233.3267953176518]
+	},
+	"DESCRIPTION": {
+		"value": "PART",
+		"coordinates": [13.511934733002697, 222.0668497068162]
+	},
+	"LOCATION": {
+		"value": "111",
+		"coordinates": [13.511934733002697, 210.80690409598066]
+	},
+	"RECEIVER#": {
+		"value": "9",
+		"coordinates": [13.511934733002697, 199.54695848514507]
+	},
+	"EXP DATE": {
+		"value": "13.04.2022",
+		"coordinates": [13.511934733002697, 188.28701287430948]
+	},
+	"CERT SOURCE": {
+		"value": "wef",
+		"coordinates": [13.511934733002697, 177.0270672634739]
+	},
+	"SN": {
+		"value": "123123",
+		"coordinates": [141.49998317616712, 233.3267953176518]
+	},
+	"CONDITION": {
+		"value": "FN",
+		"coordinates": [141.49998317616712, 210.80690409598066]
+	},
+	"UOM": {
+		"value": "EA",
+		"coordinates": [141.49998317616712, 199.54695848514507]
+	},
+	"PO": {
+		"value": "P101",
+		"coordinates": [141.49998317616712, 188.28701287430948]
+	},
+	"REC.DATE": {
+		"value": "18.04.2022",
+		"coordinates": [13.511934733002697, 165.7671216526383]
+	},
+	"MFG": {
+		"value": "efwfe",
+		"coordinates": [141.49998317616712, 165.7671216526383]
+	},
+	"BATCH# ": {
+		"value": "1",
+		"coordinates": [13.511934733002697, 154.50717604180272]
+	},
+	"REMARK": {
+		"value": "",
+		"coordinates": [13.511934733002697, 143.24723043096716]
+	},
+	"TAGGED BY": {
+		"value": "",
+		"coordinates": [13.511934733002697, 131.98728482013158]
+	},
+	"Qty": {
+		"value": "1",
+		"coordinates": [17.265249936614556, 87.69816541751162]
+	},
+	"DOM": {
+		"value": "13.04.2022",
+		"coordinates": [141.49998317616712, 154.50717604180272]
+	},
+	"LOT# ": {
+		"value": "1",
+		"coordinates": [141.49998317616712, 143.24723043096716]
+	},
+	"NOTES": {
+		"coordinates": [141.49998317616712, 131.98728482013158],
+		"inspection notes": {
+			"coordinates": [146.00396142050135, 119.22601312785123]
+		}
+	},
+	"barcode_1": {
+		"barcode_path": "test_data/barcode_1.png",
+		"data": "1",
+		"coordinates": [41, 309]
+	},
+	"barcode_2": {
+		"barcode_path": "test_data/barcode_2.png",
+		"data": "tst",
+		"coordinates": [27, 37]
+	}
+}

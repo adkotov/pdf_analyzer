@@ -1,0 +1,6 @@
+pytest
+pdfminer.six
+opencv-python
+pyzbar
+pdf2image
+PyMuPDF
